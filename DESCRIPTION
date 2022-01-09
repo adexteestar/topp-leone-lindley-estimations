@@ -1,0 +1,12 @@
+Package: BayesToppLeoneLindley
+Type: Package
+Title: Bayesian and Classical Estimation of Toppleone Lindley Distribution
+Version: 0.1.0
+Author: Adegoke, T.M and Nzei, L.C.
+Maintainer: Adegoke Taiwo Mobolaji<adegoketaiwom@gmail.com>
+Description: This package is used to obtain the bayes estimate and classical estimate of Topp-leone Lindley Distribution. It has two to functions which are functions for both simulation and real datasets
+License: GPL-3
+Encoding: UTF-8
+Imports: lamW
+LazyData: true
+RoxygenNote: 7.1.2
